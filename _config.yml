@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Krista D. Chisholm"
+title                    : "Krista Chisholm"
 title_separator          : "-"
 name                     : &name "Krista Dulany Chisholm"
 description              : &description "This is Krista Dulany Chisholm's personal website"
