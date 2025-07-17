@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/ASEE_2025_K-12_Student_STEM_Identity_Development.pdf
 excerpt: # EXCERPT
 date: 2025-06-22
-venue: 'Journal 1'
+venue: 'ASEE Conference Proceedings'
 slidesurl: 'http://kdchisholm.github.io/files/ASEE_25_Slides_GGEE_StudentSTEMIdentity.pdf'
 paperurl: 'http://kdchisholm.github.io/files/ASEE_2025_K-12_Student_STEM_Identity_Development.pdf'
 citation: 'Krista Dulany Chisholm, Emersen Kronsnoble, Kassandra Fernandez, and Nancy Ruzycki, “K-12 Student STEM Identity Development through Participation in Goldberg Gator Engineering Explorers Summer Programs (RTP),” presented at the 2025 ASEE Annual Conference & Exposition, Montreal, QC: ASEE Conferences, Jun. 2025.'
