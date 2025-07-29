@@ -1,14 +1,12 @@
 ---
 title: "Board 165: Evaluation of an Introductory Computational Thinking Summer Program for Middle School to Identify the Effects of Authentic Engineering Experiences (Work in Progress)"
 collection: publications
-category: manuscripts
-permalink: https://peer.asee.org/42517
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+category: conferences
+permalink: /publications/ASEE_2023_Paper
+excerpt: 'This paper was presented at the 2023 ASEE Annual Conference in Montreal, Canada.'
 date: 2023-06-25
 venue: '2023 ASEE Annual Conference & Exposition, Baltimore , Maryland'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'K. D. Chisholm, O. Lancaster, and N. Ruzycki, “Board 165: Evaluation of an Introductory Computational Thinking Summer Program for Middle School to Identify the Effects of Authentic Engineering Experiences (Work in Progress),” presented at the 2023 ASEE Annual Conference & Exposition, Jun. 2023. Accessed: Jan. 03, 2024. [Online]. Available: https://peer.asee.org/board-165-evaluation-of-an-introductory-computational-thinking-summer-program-for-middle-school-to-identify-the-effects-of-authentic-engineering-experiences-work-in-progress<img width="468" height="127" alt="image" src="https://github.com/user-attachments/assets/32e199d3-0863-45c7-93fc-f67453ab49c4" />
 '
 ---
