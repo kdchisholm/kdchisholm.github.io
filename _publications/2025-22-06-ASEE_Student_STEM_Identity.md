@@ -1,8 +1,8 @@
 ---
 title: "K-12 Student STEM Identity Development through Participation in Goldberg Gator Engineering Explorers Summer Programs (RTP)"
 collection: publications
-category: manuscripts
-permalink: /publication/2025-22-06-ASEE_Student_STEM_Identity.pdf
+category: conference
+permalink: /publication/2025-22-06-ASEE_Student_STEM_Identity
 excerpt: # EXCERPT
 date: 2025-06-22
 venue: 'ASEE Conference Proceedings'
