@@ -24,6 +24,6 @@ View Paper
 ======
 This paper was presented at the 2025 ASEE Annual Conference in Montreal, Canada.
 
-If the link or the PDF viewer aren't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/faa39a04c109fa6afd93720ce2daab33d6c14efe/files/K-12_student_STEM_identity_development_through_participation_in_Goldberg_Gator_Engineering_Explorers_summer_programs.pdf) to download the paper from Github.
+If the link or the PDF viewer aren't working, you can [click here](https://github.com/kdchisholm/kdchisholm.github.io/blob/2db11b6dd8d32d11c384ed438ff94c5abdc6509c/files/ASEE_2025_K-12_Student_STEM_Identity_Development.pdf) to download the paper from Github.
 
-<object id=paper data="/files/K-12_student_STEM_identity_development_through_participation_in_Goldberg_Gator_Engineering_Explorers_summer_programs.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object id=paper data="/files/files/ASEE_2025_K-12_Student_STEM_Identity_Development.pdf" width="1000" height="1000" type='application/pdf'></object>
